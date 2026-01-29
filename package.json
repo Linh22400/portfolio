@@ -1,0 +1,15 @@
+{
+  "name": "nguyen-hong-linh-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Digital Transformation assignment",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "portfolio",
+    "css",
+    "html"
+  ],
+  "author": "Nguyen Hong Linh",
+  "license": "ISC"
+}
