@@ -139,14 +139,8 @@ window.addEventListener('scroll', () => {
     });
 });
 
-// Download CV Button (Triggers Print)
-const downloadBtn = document.getElementById('downloadCvBtn');
-if (downloadBtn) {
-    downloadBtn.addEventListener('click', (e) => {
-        e.preventDefault();
-        window.print();
-    });
-}
+// CV Download - Now handled by direct link to PDF file
+// No JavaScript needed
 
 // Custom Cursor Logic (Fluid Trail)
 const appCursor = {
